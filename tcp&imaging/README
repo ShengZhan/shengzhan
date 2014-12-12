@@ -1,0 +1,4 @@
+Client converts pixels in image into an array, after FFT send the complex results to server.
+Server recieves the complex results, after IFFT, restore the image.
+
+Keywords: java, tcp, FFT, IFFT, interface
